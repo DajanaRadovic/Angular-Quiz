@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "Sistemi koji su dinamični, utiču jedni na druge i okrenuti su ka okruženju, su::",
+            "options": [{
+                    "text": "Otvoreni",
+                    "correct": true
+                },
+                {
+                    "text": "Zatvoreni"
+                },
+                {
+                    "text": "Ciklicni"
+                },
+                {
+                    "text": "Nista od ponudjenog"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "Naziv za razliku koja postoji između lijeve i desne strane u sistemu knjigovodstvenih računa je::",
+            "options": [{
+                    "text": "Bilans stanja"
+                },
+                {
+                    "text": "Aktiva"
+                },
+                {
+                    "text": "Bruto"
+                },
+                {
+                    "text": "Saldo",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Prihod od akcija je:",
+            "options": [{
+                    "text": "Regres"
+                },
+                {
+                    "text": "Dividenda",
+                    "correct": true
+                },
+                {
+                    "text": "Rabat"
+                },
+                {
+                    "text": "Nista od navedenog"
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Koji ekonomski pokazatelj najviše govori o životnom standardu jedne zemlje?:",
+            "options": [{
+                    "text": "Stopa inflacije"
+                },
+                {
+                    "text": "BDP per capita",
+                    "correct": true
+                },
+                {
+                    "text": "Nivo deviznih rezervi"
+                },
+                {
+                    "text": "Visina drzavnog budzeta"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Trgovacka marza je:",
+            "options": [{
+                    "text": "Razlika izmedju nabavne i prodajne cijene trgovaca, namijenjena pokricu troskova prometa i ostvarivanju profita",
+                    "correct": true
+                },
+                {
+                    "text": "Raspon nivelisanih cijena u maloprodaji"
+                },
+                {
+                    "text": "Maloprodajni popust za odlozeno placanje"
+                },
+                {
+                    "text": "Nista od navedenog"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Neto investicije predstavljaju razliku izmedju:",
+            "options": [{
+                    "text": "Nista od navedenog"
+                },
+                {
+                    "text": "Bruto profita i poreza"
+                },
+                {
+                    "text": "Bruto prihoda i troskova"
+                },
+                {
+                    "text": "Bruto investicija i amortizacije",
+                    "correct": true
+                }
+            ],
+            "explanation": "D"
+        },
+        {
+            "questionText": "Trzistna vrijednost robe se mijenja:",
+            "options": [{
+                    "text": "ako se mijenja ponuda i traznja"
+                },
+                {
+                    "text": "Ako se mijenja produktivnost za proizvodnju robe",
+                    "correct": true
+                },
+                {
+                    "text": "Ako se mijenja cijena"
+                },
+                {
+                    "text": "Nista od navedenog"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "Šta je akumulacija:",
+            "options": [{
+                    "text": "Akumulacija je kontinuirano odvajanje dijela prisvojenog profita radi uvecanja kapitala, prosirenja i usavrsavanja proizvodnje",
+                    "correct": true
+                },
+                {
+                    "text": "Akumulacija nije kontinuirano odvajanje dijela prisvojenog profita radi uvecanja kapitala, prosirenja i usavrsavanja proizvodnje"
+                },
+                {
+                    "text": "Akumulacija je kontinuirano odvajanje dijela prisvojenog profita radi uvecanja kapitala"
+                },
+                {
+                    "text": "Nista od navedenog"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": " Kultura, ekonomija, politika, tehnologija, dijelovi su:",
+            "options": [{
+                    "text": "Opsteg okruzenja organizacija",
+                    "correct": true
+                },
+                {
+                    "text": "Specificnog okruzenja organizacija"
+                },
+                {
+                    "text": "Internog okruzenja organizacija"
+                },
+                {
+                    "text": "Nista od navedenog"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}
